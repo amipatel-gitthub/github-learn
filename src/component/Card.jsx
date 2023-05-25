@@ -24,7 +24,7 @@ const Card = () => {
     <>
       <div className="container-fluid">
         <div className=" shadow-sm   bg-secondary text-light text-center mx-auto w-25 mt-3 rounded  ">
-          <h5 className=" mt-2 p-2 ">Data in Card Format</h5>
+          <h5 className=" mt-2 p-2 ">WElcome to Our Page </h5>
         </div>
 
         <div className=" border-0 mt-3">
